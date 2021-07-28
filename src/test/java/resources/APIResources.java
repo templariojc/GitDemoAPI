@@ -26,5 +26,15 @@ public enum APIResources {
 	{
 		return resource;
 	}
+	
+	public String getResource3()
+	{
+		return resource;
+	}
+	
+	public String getResource4()
+	{
+		return resource;
+	}
 
 }
