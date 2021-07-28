@@ -17,5 +17,14 @@ public enum APIResources {
 		return resource;
 	}
 	
+	public String getResource1()
+	{
+		return resource;
+	}
+	
+	public String getResource2()
+	{
+		return resource;
+	}
 
 }
