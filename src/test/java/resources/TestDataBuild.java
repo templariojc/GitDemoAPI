@@ -61,6 +61,9 @@ public class TestDataBuild {
 		return "{\r\n    \"place_id\":\""+placeId+"\"\r\n}";
 	}
 	
-	
+	public String deletePlacePayload7develop(String placeId)
+	{
+		return "{\r\n    \"place_id\":\""+placeId+"\"\r\n}";
+	}
 	
 }
